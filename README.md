@@ -8,6 +8,7 @@
 - [Single-cell multimodal omics: the power of many](https://www.nature.com/articles/s41592-019-0691-5)
 - [Undisclosed, unmet and neglected challenges in multi-omics studies](https://doi.org/10.1038/s43588-021-00086-z)
 - [Computational methods for the integrative analysis of single-cell data](https://doi.org/10.1093/bib/bbaa042)
+- [Eleven grand challenges in single-cell data science](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1926-6)
 
 ## *Methods*
 
